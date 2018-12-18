@@ -1,0 +1,17 @@
+﻿@using TKHTTT.Models
+@model List<TacGia>
+
+
+<button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">Tác giả</button>
+<ul class="dropdown-menu" role="menu">
+    @foreach (var item in Model)
+    {
+        <li>
+            <strong>
+                @*<a href="#" data-toggle="tooltip" class="dropdown-item">@item.TenTG</a>*@
+                @Html.ActionLink(item.TenTG, "LocTheoTacGia", new { id = item.MaTG }, new { @class = "dropdown-item" })
+            </strong>
+        </li>
+    }
+    <li><strong><a href="#" data-toggle="tooltip" class="dropdown-item">Tác giả khác....</a></strong></li>
+</ul>

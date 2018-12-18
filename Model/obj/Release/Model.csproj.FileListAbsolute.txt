@@ -1,0 +1,10 @@
+D:\visual 2013\QuanLySach2\Model\bin\Release\Model.dll.config
+D:\visual 2013\QuanLySach2\Model\bin\Release\Model.dll
+D:\visual 2013\QuanLySach2\Model\bin\Release\Model.pdb
+D:\visual 2013\QuanLySach2\Model\bin\Release\EntityFramework.dll
+D:\visual 2013\QuanLySach2\Model\bin\Release\EntityFramework.SqlServer.dll
+D:\visual 2013\QuanLySach2\Model\bin\Release\EntityFramework.xml
+D:\visual 2013\QuanLySach2\Model\bin\Release\EntityFramework.SqlServer.xml
+D:\visual 2013\QuanLySach2\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\visual 2013\QuanLySach2\Model\obj\Release\Model.dll
+D:\visual 2013\QuanLySach2\Model\obj\Release\Model.pdb
